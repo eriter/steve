@@ -1,6 +1,7 @@
 require "steve/version"
 
-module Steve
-  class Error < StandardError; end
-  # Your code goes here...
+class HelloWorld
+  def self.steve
+      puts "Steve!"
+  end
 end
