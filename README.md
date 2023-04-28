@@ -1,8 +1,7 @@
 # Steve
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/steve`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Welcome to a new gem! This is an opportunity to learn about structuring code for sharing and reuse!
+TODO: think of something more testable than puts for your example logic
 
 ## Installation
 
@@ -19,10 +18,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install steve
-
-## Usage
-
-TODO: Write usage instructions here
 
 ## Development
 
